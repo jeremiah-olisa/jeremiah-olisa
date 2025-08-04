@@ -109,7 +109,6 @@ I am passionate about building robust backend systems, mentoring aspiring develo
 </table>
 
 ## Projects
-- **Task Manager**: A personal project, a web app to manage tasks (built with C# .NET and React, used by 500+ users).
 - **Invalid8**: A sophisticated caching library for .NET applications that provides: Intelligent query caching with configurable stale/expiration times, Automatic cache invalidation for mutations, Distributed cache synchronization via event bus, Resilient retry mechanisms and background refresh.
 
 ## Other
