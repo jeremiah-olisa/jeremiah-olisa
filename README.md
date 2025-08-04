@@ -45,7 +45,7 @@ I am passionate about building robust backend systems, mentoring aspiring develo
 - **Achievements**:
   - Developed a procurement solution for a major Nigerian bank, including catalog and budget confirmation modules.
 
-### Zura Logistics
+### Zora Logistics
 - **Location**: Lagos, Nigeria
 - **Role**: Backend Developer
 - **Duration**: 2022
