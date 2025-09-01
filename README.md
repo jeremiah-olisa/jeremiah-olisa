@@ -30,13 +30,11 @@ I am passionate about building robust backend systems, mentoring aspiring develo
 - **Role**: Head of Engineering
 - **Duration**: 2023 - Present
 - **Achievements**:
-  - Scaled a traditional “Akawo/Ajo” micro-savings system into a fully digital fintech platform, growing from 2,000 → 17,000+ active users and increasing monthly transactions by 900%.
+  - Scaled a traditional “Akawo/Ajo” micro-savings system into a fully digital fintech platform, growing from 2,000 → 17,000+ active customers and increasing monthly transactions by about 900%.
   - Built and led a cross-functional engineering team (backend, frontend, DevOps) with zero downtime during major product rollouts.
   - Delivered critical financial modules — deposits, withdrawals, KYC, analytics — within regulated environments, ensuring 100% ledger accuracy through a secure double-entry system.
   - Implemented engineering KPIs and an internal analytics tool, giving leadership real-time insight into staff productivity.
   - Mentored junior developers into mid-level engineers, reducing turnover and creating a self-sufficient dev culture.
-  - Converted a micro-savings institution ("Akawo" or "Ajo") into a digital platform, scaling from 2,000 to 12,000 customers (updated to 17,000+).
-  - Developed key modules like deposits and withdrawals, contributing to a 500% user base increase (updated to 900% transactions).
   - Implemented a secure wallet system with double-entry ledgers and a KPI performance module for tracking customer activities.
 
 ### Zora Logistics
