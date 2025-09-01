@@ -17,7 +17,7 @@
 
 ---
 
-Hello and welcome to my GitHub profile! My name is Jeremiah(The Predator) and I am a Fullstack Software Engineer and Engineering Leader with over a decade of experience in developing scalable applications using C#, JavaScript/TypeScript, SQL, PHP, and more. I currently serve as the Head of Engineering at MonieVault, driving digital transformation in financial technology.
+Hello and welcome to my GitHub profile! My name is Jeremiah(The Predator) and I am a Fullstack Software Engineer and Engineering Leader with about a decade of experience in developing scalable applications using C#, JavaScript/TypeScript, SQL, PHP, and more. I currently serve as the Head of Engineering at MonieVault, driving digital transformation in financial technology.
 
 ## About Me
 
